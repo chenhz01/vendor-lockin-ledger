@@ -6,6 +6,8 @@ grade, and concrete de-risking actions per dependency. If you buy or embed
 vendor software and need an auditable exit-cost view, this is for you. If you
 only use open-source libraries with healthy forks, you likely don't need it.
 
+<p align="center"><img src="docs/demo.gif" alt="demo" width="720"></p>
+
 ## Problem
 
 Lock-in is invisible until the renewal email arrives. Teams discover that their
